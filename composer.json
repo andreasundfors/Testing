@@ -1,6 +1,6 @@
 {
     "name": "mau/testing",
-    "description": "Composertest",
+    "description": "Composertest med git test",
     "type": "library",
     "require": {
         "catfan/medoo": "1.2",
